@@ -1,0 +1,4 @@
+chr - hs1 P._nodorum_Mitochondrial_genome 0 49761 chr1
+chr - hs2 contig30_len_457834 0 457834 chr2
+chr - hs3 contig119_len_24976 0 24976 chr3
+chr - hs4 contig89_len_45584 0 45584 chr4
