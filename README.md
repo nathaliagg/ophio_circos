@@ -1,5 +1,5 @@
-# Circos
-Ribbon plots, mtDNA Ophiosphaerella-P.nodorum
+
+# Circos plot with ribbon links, mtDNA Ophiosphaerella-P.nodorum
 
 Check the [notebook](circos_ribbon.ipynb) for description.
 
