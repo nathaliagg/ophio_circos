@@ -1,0 +1,16 @@
+hs3	643	1878	color=lred
+hs3	1993	3382	color=lred
+hs3	15348	16705	color=lred
+hs3	22185	23756	color=lred
+hs3	24031	25123	color=lred
+hs3	25339	27552	color=lred
+hs3	32085	30568	color=lred
+hs3	42693	41369	color=lred
+hs3	41261	39737	color=lred
+hs3	39614	38441	color=lred
+hs3	37948	36581	color=lred
+hs2	1861	497	color=lred
+hs2	7298	6890	color=lred
+hs2	6697	5424	color=lred
+hs2	5326	4096	color=lred
+			

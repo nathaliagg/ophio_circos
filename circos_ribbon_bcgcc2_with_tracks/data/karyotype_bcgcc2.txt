@@ -1,0 +1,4 @@
+chr - hs1 P._nodorum_mtDNA 0 49761 chr1
+chr - hs3 contig89_len_45584 0 45584 chr3
+chr - hs2 contig119_len_24976 0 24976 chr2
+

@@ -1,0 +1,4 @@
+hs1	8077	9123	color=lred
+hs1	11318	13061	color=lred
+hs1	30108	31323	color=lred
+hs1	35523	34172	color=lred
